@@ -1,0 +1,2 @@
+# AppHealthyHeartJavaFx
+ Proyecto de clase para aplicación médica. Se basa en una interfaz que permite gestionar datos de pacientes, tales como: nombre, apellidos, genero, caso médico y foto del paciente(obtenida desde algún perfil social). Actualmente usa bbdd h2, pero en futuras ampliaciones la aplicación podrá recoger datos cardíacos desde un smartwatch, e irá almacenandolos estos datos para crear un histórico del paciente y poder estar al tanto en tiempo real de la situación del usuario. 
